@@ -17,5 +17,6 @@ Hello, World!
 - **Ingress: an automated incremental graph processing system**
   
   The VLDB Journal, 2024.
-  
+
   Shufeng Gong, Chao Tian, Qiang Yin, **Zhengdong Wang**, Song Yu, Yanfeng Zhang, Wenyuan Yu, Liang Geng, Chong Fu, Ge Yu, Jingren Zhou
+  
