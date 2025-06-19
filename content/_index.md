@@ -35,6 +35,12 @@ I am interested in the research and implementations of relational and graph data
   Shufeng Gong, Chao Tian, Qiang Yin, **Zhengdong Wang**, Song Yu, Yanfeng Zhang, Wenyuan Yu, Liang Geng, Chong Fu, Ge Yu, Jingren Zhou
 
 ### Projects
+- Cardinality Estimation for Graph Queries
+  
+  A research project focusing on the cardinality estimation problem in graph query optimization. 
+
+  - [PathCE](https://github.com/wzzzzd/pathce): Artifacts for **Path-centric Cardinality Estimation for Subgraph Matching**.
+   
 - [miniGU](https://github.com/TuGraph-family/miniGU) (core contributor)
 
   A lightweight graph database system implemented in Rust. 
