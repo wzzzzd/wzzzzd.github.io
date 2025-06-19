@@ -1,19 +1,16 @@
 base_url = "https://wzzzzd.github.io"
 compile_sass = true
 build_search_index = true
-theme = "terminimal"
+theme = "anemone"
 
 [markdown]
 highlight_code = true
 
 [extra]
-logo_text = "Zhengdong's Page"
-author = "Zhengdong Wang"
-accent_color = "orange"
-background_color = "dark"
-
-menu_items = [
-    { name = "blogs", url = "$BASE_URL" },
-    { name = "about me", url = "$BASE_URL/about" },
-    { name = "github", url = "https://github.com/wzzzzd", newtab = true },
+list_pages = true
+toc = true
+display_author = true
+header_nav = [
+  { url = "/", name_en = "about" },
+  { url = "/blog", name_en = "blog" }
 ]
