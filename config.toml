@@ -2,15 +2,15 @@ base_url = "https://wzzzzd.github.io"
 compile_sass = true
 build_search_index = true
 theme = "anemone"
+default_language = "en"
 
 [markdown]
 highlight_code = true
 
 [extra]
 list_pages = true
-toc = true
-display_author = true
 header_nav = [
-  { url = "/", name_en = "about" },
-  { url = "/blog", name_en = "blog" }
+    { url = "/", name_en = "/about" },
+    { url = "/blog", name_en = "/blog" },
+    { url = "/blog_cn", name_en = "/blog_cn" },
 ]
