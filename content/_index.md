@@ -17,33 +17,30 @@ I am interested in the research and implementations of relational and graph data
   B.S. in Computer Science
 
 ### Experience
-- Tongyi Lab, Alibaba Group, 2024.8 - 2024.10
+- **Tongyi Lab**, **Alibaba Group**, 2024.8 - 2024.10
 
   Infrastructure development intern
 
-- RisingWave Labs (formerly Singularity Data), 2022.6 - 2022.9
+- **RisingWave Labs** (formerly **Singularity Data**), 2022.6 - 2022.9
 
   Database kernel development intern
 
 ### Publications
-- **Path-centric Cardinality Estimation for Subgraph Matching**
-
-  The 51th International Conference on Very Large Data Bases (**VLDB**), 2025.
+- Path-centric Cardinality Estimation for Subgraph Matching (**VLDB 2025**)
 
   **Zhengdong Wang**, Qiang Yin, and Longbin Lai
 
-- **Ingress: an automated incremental graph processing system**
+- Ingress: an automated incremental graph processing system (**VLDBJ 2024**)
   
-  The VLDB Journal, 2024.
-
   Shufeng Gong, Chao Tian, Qiang Yin, **Zhengdong Wang**, Song Yu, Yanfeng Zhang, Wenyuan Yu, Liang Geng, Chong Fu, Ge Yu, Jingren Zhou
 
 ### Projects
-- [miniGU](https://github.com/TuGraph-family/miniGU) (core developer)
+- [miniGU](https://github.com/TuGraph-family/miniGU) (core contributor)
 
   A lightweight graph database system implemented in Rust. 
 
-### Online Presence
+### Contact
 
 - Email: [wzd0328@outlook.com](mailto:wzd0328@outlook.com) or [lnwzd2009@sjtu.edu.cn](mailto:lnwzd2009@sjtu.edu.cn)
-- GitHub: [https://github.com/wzzzzd](https://github.com/wzzzzd)
+- [GitHub](https://github.com/wzzzzd)
+- [WeChat](wechat.png)
