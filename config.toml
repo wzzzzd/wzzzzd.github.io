@@ -1,4 +1,5 @@
 base_url = "https://wzzzzd.github.io"
+title = "Zhengdong's Website"
 compile_sass = true
 build_search_index = true
 theme = "anemone"
